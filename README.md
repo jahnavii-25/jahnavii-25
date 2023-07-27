@@ -1,4 +1,4 @@
-![logo](https://github.com/jahnavii-25/jahnavii-25/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.mp4)
+
 <h1 align="center">Hi 👋, I'm Jahnavi!</h1>
 <h3 align="center">A passionate developer</h3>
 
