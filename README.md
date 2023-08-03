@@ -1,7 +1,7 @@
 ![logo](https://github.com/jahnavii-25/jahnavii-25/blob/main/Blue%20%26%20White%20Futuristic%20Technology%20Facebook%20Cover.png)
 <h1 align="center">A passionate developer</h1>
 <h3 align="center">Currently pursuing B.Tech. in the branch Electronics and Communication at Thapar Institute of Engineering and Technology (2nd Year)</h3>
-
+![logo](https://github.com/jahnavii-25/jahnavii-25/blob/main/profile%20gif.gif)
 - 🌱 I’m currently learning **WEB DEV, DSA, PYTHON AND MACHINE LEARNING.**
 
 - 👨‍💻 All of my projects are available at [https://jahnavii-25.github.io/](https://jahnavii-25.github.io/)
