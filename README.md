@@ -1,7 +1,7 @@
 ![logo](https://github.com/jahnavii-25/jahnavii-25/blob/main/Blue%20%26%20White%20Futuristic%20Technology%20Facebook%20Cover.png)
-<h1 align="center">A passionate developer</h1>
-<h3 align="center">Currently pursuing B.Tech. in the branch Electronics and Communication at Thapar Institute of Engineering and Technology (2nd Year)</h3>
-
+<br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=A+passionate+developer.;A+student+at+TIET%2C+Patiala;Mentor+at+IETE" alt="Typing SVG" /></a>
+<br>
 <img align="right" alt="coding" width="400" src="https://github.com/jahnavii-25/jahnavii-25/blob/main/profile%20gif.gif">
 
 - 🌱 I’m currently learning **WEB DEV, DSA, PYTHON AND MACHINE LEARNING.**
